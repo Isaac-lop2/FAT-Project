@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\javil\\Escritorio\\Csharp\\FAT\\FAT.csproj",
+      "projectUniqueName": "C:\\Users\\javil\\GitHub\\FAT-Project\\FAT.csproj",
       "projectName": "FAT",
-      "projectPath": "C:\\Users\\javil\\Escritorio\\Csharp\\FAT\\FAT.csproj",
+      "projectPath": "C:\\Users\\javil\\GitHub\\FAT-Project\\FAT.csproj",
       "packagesPath": "C:\\Users\\javil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\javil\\Escritorio\\Csharp\\FAT\\obj\\",
+      "outputPath": "C:\\Users\\javil\\GitHub\\FAT-Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\javil\\AppData\\Roaming\\NuGet\\NuGet.Config"

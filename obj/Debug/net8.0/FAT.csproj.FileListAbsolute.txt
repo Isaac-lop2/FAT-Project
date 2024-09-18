@@ -1,0 +1,15 @@
+C:\Users\javil\GitHub\FAT-Project\bin\Debug\net8.0\FAT.exe
+C:\Users\javil\GitHub\FAT-Project\bin\Debug\net8.0\FAT.deps.json
+C:\Users\javil\GitHub\FAT-Project\bin\Debug\net8.0\FAT.runtimeconfig.json
+C:\Users\javil\GitHub\FAT-Project\bin\Debug\net8.0\FAT.dll
+C:\Users\javil\GitHub\FAT-Project\bin\Debug\net8.0\FAT.pdb
+C:\Users\javil\GitHub\FAT-Project\obj\Debug\net8.0\FAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javil\GitHub\FAT-Project\obj\Debug\net8.0\FAT.AssemblyInfoInputs.cache
+C:\Users\javil\GitHub\FAT-Project\obj\Debug\net8.0\FAT.AssemblyInfo.cs
+C:\Users\javil\GitHub\FAT-Project\obj\Debug\net8.0\FAT.csproj.CoreCompileInputs.cache
+C:\Users\javil\GitHub\FAT-Project\obj\Debug\net8.0\FAT.sourcelink.json
+C:\Users\javil\GitHub\FAT-Project\obj\Debug\net8.0\FAT.dll
+C:\Users\javil\GitHub\FAT-Project\obj\Debug\net8.0\refint\FAT.dll
+C:\Users\javil\GitHub\FAT-Project\obj\Debug\net8.0\FAT.pdb
+C:\Users\javil\GitHub\FAT-Project\obj\Debug\net8.0\FAT.genruntimeconfig.cache
+C:\Users\javil\GitHub\FAT-Project\obj\Debug\net8.0\ref\FAT.dll
